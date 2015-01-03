@@ -1,2 +1,2 @@
-pets.gotbigears
+gotbigears.pets
 ===============
